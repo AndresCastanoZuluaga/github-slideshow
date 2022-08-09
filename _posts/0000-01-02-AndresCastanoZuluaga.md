@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: Welcome to our second slide
+title: Welcome to Andres' slide
 ---
-Let's replace line #5
+This is my awesome file! :tada:
 Use the left arrow to go back
